@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "export NODE_TLS_REJECT_UNAUTHORIZED=0 && next start",
+    "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
